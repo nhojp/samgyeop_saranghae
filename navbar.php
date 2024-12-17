@@ -23,9 +23,6 @@
                 <li class="nav-item">
                     <a class="nav-link text-white" href="reserve.php">Reservation</a>
                 </li>
-                <li class="nav-item">
-                    <a class="btn btn-secondary text-white ms-2" href="login.php">Login</a>
-                </li>
             </ul>
         </div>
     </div>
